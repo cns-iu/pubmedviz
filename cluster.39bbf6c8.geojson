@@ -2853,7 +2853,7 @@
       "properties": {
         "area": 141, 
         "stroke": "#d3c2cb", 
-        "label": "141", 
+        "label": "141Humans, Breast Neoplasms, Female", 
         "fill": "#d3c2cb"
       }, 
       "id": "cluster17"
@@ -3392,7 +3392,7 @@
       "properties": {
         "area": 93, 
         "stroke": "#f2b7b5", 
-        "label": "93", 
+        "label": "93Breast Neoplasms, Female, Humans", 
         "fill": "#f2b7b5"
       }, 
       "id": "cluster20"
@@ -6170,7 +6170,7 @@
       "properties": {
         "area": 128, 
         "stroke": "#e8bbbc", 
-        "label": "128", 
+        "label": "128Breast Neoplasms, Female, Humans", 
         "fill": "#e8bbbc"
       }, 
       "id": "cluster26"
@@ -6477,7 +6477,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#e6ced5", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Middle Aged", 
         "fill": "#e6ced5"
       }, 
       "id": "cluster29"
@@ -8087,7 +8087,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#b9d5db", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Female", 
         "fill": "#b9d5db"
       }, 
       "id": "cluster47"
@@ -9379,7 +9379,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#b8d3dd", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Humans, Female", 
         "fill": "#b8d3dd"
       }, 
       "id": "cluster63"
@@ -11056,7 +11056,7 @@
       "properties": {
         "area": 70, 
         "stroke": "#d9c0c7", 
-        "label": "70", 
+        "label": "70Breast Neoplasms, Female, Humans", 
         "fill": "#d9c0c7"
       }, 
       "id": "cluster72"
@@ -11465,7 +11465,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#f0d3c2", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Female, Humans", 
         "fill": "#f0d3c2"
       }, 
       "id": "cluster77"
@@ -11586,7 +11586,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#d2c2cc", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Humans, Female", 
         "fill": "#d2c2cc"
       }, 
       "id": "cluster78"
@@ -12251,7 +12251,7 @@
       "properties": {
         "area": 46, 
         "stroke": "#eeb9b8", 
-        "label": "46", 
+        "label": "46Humans, Breast Neoplasms, Female", 
         "fill": "#eeb9b8"
       }, 
       "id": "cluster79"
@@ -13605,7 +13605,7 @@
       "properties": {
         "area": 115, 
         "stroke": "#d3c2cb", 
-        "label": "115", 
+        "label": "115Breast Neoplasms, Female, Humans", 
         "fill": "#d3c2cb"
       }, 
       "id": "cluster81"
@@ -14342,7 +14342,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#d4c2cb", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Female, Humans", 
         "fill": "#d4c2cb"
       }, 
       "id": "cluster90"
@@ -16719,7 +16719,7 @@
       "properties": {
         "area": 94, 
         "stroke": "#d6c1c9", 
-        "label": "94", 
+        "label": "94Breast Neoplasms, Female, Humans", 
         "fill": "#d6c1c9"
       }, 
       "id": "cluster107"
@@ -16812,7 +16812,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#eababb", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Female", 
         "fill": "#eababb"
       }, 
       "id": "cluster108"
@@ -19241,7 +19241,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b5cce1", 
-        "label": "2", 
+        "label": "2Humans, Middle Aged, Breast Neoplasms", 
         "fill": "#b5cce1"
       }, 
       "id": "cluster133"
@@ -19330,7 +19330,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#eababb", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Humans, Female", 
         "fill": "#eababb"
       }, 
       "id": "cluster134"
@@ -19419,7 +19419,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#ddcde2", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Female", 
         "fill": "#ddcde2"
       }, 
       "id": "cluster135"
@@ -20871,7 +20871,7 @@
       "properties": {
         "area": 54, 
         "stroke": "#e3bdc0", 
-        "label": "54", 
+        "label": "54Breast Neoplasms, Humans, Female", 
         "fill": "#e3bdc0"
       }, 
       "id": "cluster143"
@@ -22415,7 +22415,7 @@
       "properties": {
         "area": 58, 
         "stroke": "#fbb4ae", 
-        "label": "58", 
+        "label": "58Breast Neoplasms, Female, Humans", 
         "fill": "#fbb4ae"
       }, 
       "id": "cluster155"
@@ -26297,7 +26297,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#cee8c8", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Female, Humans", 
         "fill": "#cee8c8"
       }, 
       "id": "cluster201"
@@ -27260,7 +27260,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#bdd9d7", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Humans, Female", 
         "fill": "#bdd9d7"
       }, 
       "id": "cluster212"
@@ -29560,7 +29560,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b7cce0", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#b7cce0"
       }, 
       "id": "cluster240"
@@ -31564,7 +31564,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#fcd8aa", 
-        "label": "3", 
+        "label": "3Humans, Middle Aged, Female", 
         "fill": "#fcd8aa"
       }, 
       "id": "cluster264"
@@ -33223,7 +33223,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#f6b6b2", 
-        "label": "3", 
+        "label": "3Humans, Breast Neoplasms, Female", 
         "fill": "#f6b6b2"
       }, 
       "id": "cluster283"
@@ -35944,7 +35944,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#f7b6b1", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Female, Humans", 
         "fill": "#f7b6b1"
       }, 
       "id": "cluster316"
@@ -36147,7 +36147,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#d2c2cc", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Humans, Female", 
         "fill": "#d2c2cc"
       }, 
       "id": "cluster319"
@@ -37154,7 +37154,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#c8e6ca", 
-        "label": "2", 
+        "label": "2Humans, Female, Breast Neoplasms", 
         "fill": "#c8e6ca"
       }, 
       "id": "cluster330"
@@ -37514,7 +37514,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#d8d5da", 
-        "label": "5", 
+        "label": "5Humans, Breast Neoplasms, Female", 
         "fill": "#d8d5da"
       }, 
       "id": "cluster334"
@@ -37595,7 +37595,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#f8b5b0", 
-        "label": "1", 
+        "label": "1Humans, Breast Neoplasms, Female", 
         "fill": "#f8b5b0"
       }, 
       "id": "cluster335"
@@ -38417,7 +38417,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#bad5db", 
-        "label": "4", 
+        "label": "4Breast Neoplasms, Humans, Female", 
         "fill": "#bad5db"
       }, 
       "id": "cluster345"
@@ -38991,7 +38991,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#cfe6ca", 
-        "label": "1", 
+        "label": "1Humans, Breast Neoplasms, Female", 
         "fill": "#cfe6ca"
       }, 
       "id": "cluster351"
@@ -39080,7 +39080,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#f0d3c0", 
-        "label": "3", 
+        "label": "3Humans, Breast Neoplasms, Female", 
         "fill": "#f0d3c0"
       }, 
       "id": "cluster352"
@@ -41214,7 +41214,7 @@
       "properties": {
         "area": 7, 
         "stroke": "#d3c2cb", 
-        "label": "7", 
+        "label": "7Breast Neoplasms, Female, Humans", 
         "fill": "#d3c2cb"
       }, 
       "id": "cluster378"
@@ -41589,7 +41589,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#f9d7b0", 
-        "label": "2", 
+        "label": "2Humans, Middle Aged, Breast Neoplasms", 
         "fill": "#f9d7b0"
       }, 
       "id": "cluster381"
@@ -42840,7 +42840,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#fad7ae", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Female, Humans", 
         "fill": "#fad7ae"
       }, 
       "id": "cluster396"
@@ -42897,7 +42897,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#bdd9d7", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#bdd9d7"
       }, 
       "id": "cluster397"
@@ -43237,7 +43237,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#c2dfd1", 
-        "label": "2", 
+        "label": "2Humans, Breast Neoplasms, Middle Aged", 
         "fill": "#c2dfd1"
       }, 
       "id": "cluster401"
@@ -47705,7 +47705,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#dfcce2", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Female, Humans", 
         "fill": "#dfcce2"
       }, 
       "id": "cluster453"
@@ -48288,7 +48288,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#decbe4", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Female", 
         "fill": "#decbe4"
       }, 
       "id": "cluster460"
@@ -48361,7 +48361,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#f5b6b3", 
-        "label": "2", 
+        "label": "2Humans, Breast Neoplasms, Female", 
         "fill": "#f5b6b3"
       }, 
       "id": "cluster461"
@@ -53082,7 +53082,7 @@
       "properties": {
         "area": 8, 
         "stroke": "#bad5db", 
-        "label": "8", 
+        "label": "8Breast Neoplasms, Female, Humans", 
         "fill": "#bad5db"
       }, 
       "id": "cluster518"
@@ -53313,7 +53313,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#e9babb", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Female, Humans", 
         "fill": "#e9babb"
       }, 
       "id": "cluster521"
@@ -54063,7 +54063,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#bdc9db", 
-        "label": "5", 
+        "label": "5Humans, Breast Neoplasms, Female", 
         "fill": "#bdc9db"
       }, 
       "id": "cluster531"
@@ -55071,7 +55071,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b8cbdf", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Humans, Female", 
         "fill": "#b8cbdf"
       }, 
       "id": "cluster543"
@@ -56499,7 +56499,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#efb8b7", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Middle Aged", 
         "fill": "#efb8b7"
       }, 
       "id": "cluster559"
@@ -57196,7 +57196,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#bfdcd4", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Humans, Female", 
         "fill": "#bfdcd4"
       }, 
       "id": "cluster568"
@@ -57795,7 +57795,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#c4e2ce", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Humans, Female", 
         "fill": "#c4e2ce"
       }, 
       "id": "cluster575"
@@ -58957,7 +58957,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#d9c0c7", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#d9c0c7"
       }, 
       "id": "cluster589"
@@ -59864,7 +59864,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#f9b5b0", 
-        "label": "4", 
+        "label": "4Breast Neoplasms, Female, Humans", 
         "fill": "#f9b5b0"
       }, 
       "id": "cluster600"
@@ -63479,7 +63479,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#f4b7b3", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Female, Humans", 
         "fill": "#f4b7b3"
       }, 
       "id": "cluster643"
@@ -64005,7 +64005,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#c9c5d3", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Humans, Female", 
         "fill": "#c9c5d3"
       }, 
       "id": "cluster649"
@@ -64082,7 +64082,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#d2c2cc", 
-        "label": "2", 
+        "label": "2Humans, Breast Neoplasms, Female", 
         "fill": "#d2c2cc"
       }, 
       "id": "cluster650"
@@ -67331,7 +67331,7 @@
       "properties": {
         "area": 7, 
         "stroke": "#f8d6b1", 
-        "label": "7", 
+        "label": "7Breast Neoplasms, Humans, Female", 
         "fill": "#f8d6b1"
       }, 
       "id": "cluster687"
@@ -68644,7 +68644,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#f0d3c2", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#f0d3c2"
       }, 
       "id": "cluster704"
@@ -68757,7 +68757,7 @@
       "properties": {
         "area": 7, 
         "stroke": "#b6d0e0", 
-        "label": "7", 
+        "label": "7Humans, Breast Neoplasms, Middle Aged", 
         "fill": "#b6d0e0"
       }, 
       "id": "cluster705"
@@ -72218,7 +72218,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#d8c0c8", 
-        "label": "3", 
+        "label": "3Humans, Breast Neoplasms, Female", 
         "fill": "#d8c0c8"
       }, 
       "id": "cluster750"
@@ -74413,7 +74413,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#e7cfd2", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#e7cfd2"
       }, 
       "id": "cluster777"
@@ -75655,7 +75655,7 @@
       "properties": {
         "area": 8, 
         "stroke": "#f6d5b6", 
-        "label": "8", 
+        "label": "8Humans, Female, Breast Neoplasms", 
         "fill": "#f6d5b6"
       }, 
       "id": "cluster791"
@@ -76137,7 +76137,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#fcd8aa", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Female", 
         "fill": "#fcd8aa"
       }, 
       "id": "cluster797"
@@ -76565,7 +76565,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#bdd9d7", 
-        "label": "5", 
+        "label": "5Humans, Breast Neoplasms, Female", 
         "fill": "#bdd9d7"
       }, 
       "id": "cluster801"
@@ -78247,7 +78247,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#f7b5b1", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Female, Humans", 
         "fill": "#f7b5b1"
       }, 
       "id": "cluster823"
@@ -79354,7 +79354,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#cee8c8", 
-        "label": "4", 
+        "label": "4Breast Neoplasms, Humans, Middle Aged", 
         "fill": "#cee8c8"
       }, 
       "id": "cluster838"
@@ -80231,7 +80231,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#cfe6ca", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Female", 
         "fill": "#cfe6ca"
       }, 
       "id": "cluster847"
@@ -81261,7 +81261,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#c3e1cf", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Female, Humans", 
         "fill": "#c3e1cf"
       }, 
       "id": "cluster861"
@@ -82205,7 +82205,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b6d1df", 
-        "label": "2", 
+        "label": "2Humans, Female, Middle Aged", 
         "fill": "#b6d1df"
       }, 
       "id": "cluster873"
@@ -82355,7 +82355,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#d3dfd0", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Female", 
         "fill": "#d3dfd0"
       }, 
       "id": "cluster875"
@@ -82695,7 +82695,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#d4c2cb", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Female", 
         "fill": "#d4c2cb"
       }, 
       "id": "cluster879"
@@ -82796,7 +82796,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#d3c2cb", 
-        "label": "2", 
+        "label": "2Humans, Breast Neoplasms, Female", 
         "fill": "#d3c2cb"
       }, 
       "id": "cluster880"
@@ -85453,7 +85453,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#d3ded1", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Female, Humans", 
         "fill": "#d3ded1"
       }, 
       "id": "cluster917"
@@ -85575,7 +85575,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#dfbec3", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Female, Humans", 
         "fill": "#dfbec3"
       }, 
       "id": "cluster919"
@@ -87816,7 +87816,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#cee7c9", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Humans, Middle Aged", 
         "fill": "#cee7c9"
       }, 
       "id": "cluster944"
@@ -88192,7 +88192,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#eeb8b7", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Humans, Female", 
         "fill": "#eeb8b7"
       }, 
       "id": "cluster948"
@@ -88439,7 +88439,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#e5ced6", 
-        "label": "2", 
+        "label": "2Female, Breast Neoplasms, Humans", 
         "fill": "#e5ced6"
       }, 
       "id": "cluster951"
@@ -89519,7 +89519,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#c9c5d3", 
-        "label": "3", 
+        "label": "3Humans, Female, Breast Neoplasms", 
         "fill": "#c9c5d3"
       }, 
       "id": "cluster967"
@@ -90498,7 +90498,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#b5cfe1", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Female", 
         "fill": "#b5cfe1"
       }, 
       "id": "cluster978"
@@ -91762,7 +91762,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#d8d6d9", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Female, Humans", 
         "fill": "#d8d6d9"
       }, 
       "id": "cluster994"
@@ -92197,7 +92197,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#edb9b8", 
-        "label": "3", 
+        "label": "3Humans, Breast Neoplasms, Female", 
         "fill": "#edb9b8"
       }, 
       "id": "cluster1001"
@@ -92493,7 +92493,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#c6c7d5", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Female, Humans", 
         "fill": "#c6c7d5"
       }, 
       "id": "cluster1005"
@@ -93462,7 +93462,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b9d4dc", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#b9d4dc"
       }, 
       "id": "cluster1018"
@@ -93899,7 +93899,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b9d4dc", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Female, Humans", 
         "fill": "#b9d4dc"
       }, 
       "id": "cluster1023"
@@ -94919,7 +94919,7 @@
       "properties": {
         "area": 6, 
         "stroke": "#bacbde", 
-        "label": "6", 
+        "label": "6Breast Neoplasms, Female, Humans", 
         "fill": "#bacbde"
       }, 
       "id": "cluster1035"
@@ -99834,7 +99834,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#bad6da", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Humans, Female", 
         "fill": "#bad6da"
       }, 
       "id": "cluster1102"
@@ -99903,7 +99903,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#bbd6da", 
-        "label": "3", 
+        "label": "3Humans, Female, Breast Neoplasms", 
         "fill": "#bbd6da"
       }, 
       "id": "cluster1103"
@@ -101460,7 +101460,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#bcd8d8", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Female", 
         "fill": "#bcd8d8"
       }, 
       "id": "cluster1124"
@@ -103486,7 +103486,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#b8d3dd", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Humans, Female", 
         "fill": "#b8d3dd"
       }, 
       "id": "cluster1150"
@@ -105109,7 +105109,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#c6e4cc", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Humans, Middle Aged", 
         "fill": "#c6e4cc"
       }, 
       "id": "cluster1173"
@@ -109374,7 +109374,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#c3e0d0", 
-        "label": "3", 
+        "label": "3Humans, Breast Neoplasms, Middle Aged", 
         "fill": "#c3e0d0"
       }, 
       "id": "cluster1234"
@@ -113026,7 +113026,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#e0cce0", 
-        "label": "2", 
+        "label": "2Humans, Middle Aged, Female", 
         "fill": "#e0cce0"
       }, 
       "id": "cluster1286"
@@ -113509,7 +113509,7 @@
       "properties": {
         "area": 6, 
         "stroke": "#fcd8a9", 
-        "label": "6", 
+        "label": "6Humans, Breast Neoplasms, Female", 
         "fill": "#fcd8a9"
       }, 
       "id": "cluster1293"
@@ -115653,7 +115653,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#efd2c3", 
-        "label": "4", 
+        "label": "4Humans, Breast Neoplasms, Female", 
         "fill": "#efd2c3"
       }, 
       "id": "cluster1325"
@@ -115811,7 +115811,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#f8d6b2", 
-        "label": "5", 
+        "label": "5Breast Neoplasms, Humans, Female", 
         "fill": "#f8d6b2"
       }, 
       "id": "cluster1327"
@@ -118827,7 +118827,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#e5ced6", 
-        "label": "5", 
+        "label": "5Humans, Breast Neoplasms, Female", 
         "fill": "#e5ced6"
       }, 
       "id": "cluster1371"
@@ -119482,7 +119482,7 @@
       "properties": {
         "area": 1, 
         "stroke": "#c0dcd4", 
-        "label": "1", 
+        "label": "1Breast Neoplasms, Humans, Female", 
         "fill": "#c0dcd4"
       }, 
       "id": "cluster1382"
@@ -119693,7 +119693,7 @@
       "properties": {
         "area": 4, 
         "stroke": "#d3dfd1", 
-        "label": "4", 
+        "label": "4Breast Neoplasms, Female, Humans", 
         "fill": "#d3dfd1"
       }, 
       "id": "cluster1385"
@@ -122611,7 +122611,7 @@
       "properties": {
         "area": 5, 
         "stroke": "#d8d5da", 
-        "label": "5", 
+        "label": "5Humans, Breast Neoplasms, Middle Aged", 
         "fill": "#d8d5da"
       }, 
       "id": "cluster1427"
@@ -122899,7 +122899,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#c8e6ca", 
-        "label": "3", 
+        "label": "3Humans, Breast Neoplasms, Middle Aged", 
         "fill": "#c8e6ca"
       }, 
       "id": "cluster1431"
@@ -127615,7 +127615,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#bbd6da", 
-        "label": "2", 
+        "label": "2Humans, Breast Neoplasms, Female", 
         "fill": "#bbd6da"
       }, 
       "id": "cluster1511"
@@ -128899,7 +128899,7 @@
       "properties": {
         "area": 2, 
         "stroke": "#d2c2cc", 
-        "label": "2", 
+        "label": "2Breast Neoplasms, Humans, Female", 
         "fill": "#d2c2cc"
       }, 
       "id": "cluster1531"
@@ -135638,7 +135638,7 @@
       "properties": {
         "area": 3, 
         "stroke": "#d8c0c8", 
-        "label": "3", 
+        "label": "3Breast Neoplasms, Humans, Female", 
         "fill": "#d8c0c8"
       }, 
       "id": "cluster1646"
